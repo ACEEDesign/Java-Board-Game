@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Board\r\n
+comment1.params=
+comment1.target=void\ standardCheckersPieces()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=
+comment2.target=void\ testChessPieces()
+comment3.params=
+comment3.target=void\ standardChessPieces()
+comment4.params=
+comment4.target=void\ testPieces()
+comment5.params=pieces
+comment5.target=void\ drawPieces(java.util.ArrayList)
+comment6.params=
+comment6.target=void\ drawGameBoard()
+numComments=7

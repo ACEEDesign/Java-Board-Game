@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=startX\ startY\ endX\ endY
+comment0.target=Move(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Move\r\n
+comment1.params=add
+comment1.target=void\ increaseRank(int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=min
+comment2.target=void\ decreaseRank(double)
+comment3.params=
+comment3.target=int\ getEndX()
+comment4.params=
+comment4.target=int\ getEndY()
+comment5.params=
+comment5.target=double\ getRank()
+comment6.params=
+comment6.target=int\ getStartX()
+comment7.params=
+comment7.target=int\ getStartY()
+comment8.params=report
+comment8.target=void\ addReport(java.util.ArrayList)
+comment9.params=
+comment9.target=java.util.ArrayList\ getReport()
+numComments=10
